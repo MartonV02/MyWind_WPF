@@ -1,0 +1,22 @@
+T:\Bognár Pál\14A programozás\2022-02-28 MyWind - WPF\2022-02-28 MyWind - WPF\bin\Debug\netcoreapp3.1\2022-02-28 MyWind - WPF.exe
+T:\Bognár Pál\14A programozás\2022-02-28 MyWind - WPF\2022-02-28 MyWind - WPF\bin\Debug\netcoreapp3.1\2022-02-28 MyWind - WPF.deps.json
+T:\Bognár Pál\14A programozás\2022-02-28 MyWind - WPF\2022-02-28 MyWind - WPF\bin\Debug\netcoreapp3.1\2022-02-28 MyWind - WPF.runtimeconfig.json
+T:\Bognár Pál\14A programozás\2022-02-28 MyWind - WPF\2022-02-28 MyWind - WPF\bin\Debug\netcoreapp3.1\2022-02-28 MyWind - WPF.runtimeconfig.dev.json
+T:\Bognár Pál\14A programozás\2022-02-28 MyWind - WPF\2022-02-28 MyWind - WPF\bin\Debug\netcoreapp3.1\2022-02-28 MyWind - WPF.dll
+T:\Bognár Pál\14A programozás\2022-02-28 MyWind - WPF\2022-02-28 MyWind - WPF\bin\Debug\netcoreapp3.1\2022-02-28 MyWind - WPF.pdb
+T:\Bognár Pál\14A programozás\2022-02-28 MyWind - WPF\2022-02-28 MyWind - WPF\bin\Debug\netcoreapp3.1\MySql.Data.dll
+T:\Bognár Pál\14A programozás\2022-02-28 MyWind - WPF\2022-02-28 MyWind - WPF\obj\Debug\netcoreapp3.1\2022-02-28 MyWind - WPF.csproj.AssemblyReference.cache
+T:\Bognár Pál\14A programozás\2022-02-28 MyWind - WPF\2022-02-28 MyWind - WPF\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+T:\Bognár Pál\14A programozás\2022-02-28 MyWind - WPF\2022-02-28 MyWind - WPF\obj\Debug\netcoreapp3.1\App.g.cs
+T:\Bognár Pál\14A programozás\2022-02-28 MyWind - WPF\2022-02-28 MyWind - WPF\obj\Debug\netcoreapp3.1\2022-02-28 MyWind - WPF_MarkupCompile.cache
+T:\Bognár Pál\14A programozás\2022-02-28 MyWind - WPF\2022-02-28 MyWind - WPF\obj\Debug\netcoreapp3.1\2022-02-28 MyWind - WPF_MarkupCompile.lref
+T:\Bognár Pál\14A programozás\2022-02-28 MyWind - WPF\2022-02-28 MyWind - WPF\obj\Debug\netcoreapp3.1\MainWindow.baml
+T:\Bognár Pál\14A programozás\2022-02-28 MyWind - WPF\2022-02-28 MyWind - WPF\obj\Debug\netcoreapp3.1\2022-02-28 MyWind - WPF.g.resources
+T:\Bognár Pál\14A programozás\2022-02-28 MyWind - WPF\2022-02-28 MyWind - WPF\obj\Debug\netcoreapp3.1\2022-02-28 MyWind - WPF.GeneratedMSBuildEditorConfig.editorconfig
+T:\Bognár Pál\14A programozás\2022-02-28 MyWind - WPF\2022-02-28 MyWind - WPF\obj\Debug\netcoreapp3.1\2022-02-28 MyWind - WPF.AssemblyInfoInputs.cache
+T:\Bognár Pál\14A programozás\2022-02-28 MyWind - WPF\2022-02-28 MyWind - WPF\obj\Debug\netcoreapp3.1\2022-02-28 MyWind - WPF.AssemblyInfo.cs
+T:\Bognár Pál\14A programozás\2022-02-28 MyWind - WPF\2022-02-28 MyWind - WPF\obj\Debug\netcoreapp3.1\2022-02-28 MyWind - WPF.csproj.CoreCompileInputs.cache
+T:\Bognár Pál\14A programozás\2022-02-28 MyWind - WPF\2022-02-28 MyWind - WPF\obj\Debug\netcoreapp3.1\2022-02-28 MyWind - WPF.csproj.CopyComplete
+T:\Bognár Pál\14A programozás\2022-02-28 MyWind - WPF\2022-02-28 MyWind - WPF\obj\Debug\netcoreapp3.1\2022-02-28 MyWind - WPF.dll
+T:\Bognár Pál\14A programozás\2022-02-28 MyWind - WPF\2022-02-28 MyWind - WPF\obj\Debug\netcoreapp3.1\2022-02-28 MyWind - WPF.pdb
+T:\Bognár Pál\14A programozás\2022-02-28 MyWind - WPF\2022-02-28 MyWind - WPF\obj\Debug\netcoreapp3.1\2022-02-28 MyWind - WPF.genruntimeconfig.cache

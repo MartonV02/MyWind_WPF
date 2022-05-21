@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "2022-02-28 MyWind - WPF/1.0.0": {
+        "dependencies": {
+          "MySql.Data": "8.0.28.0"
+        },
+        "runtime": {
+          "2022-02-28 MyWind - WPF.dll": {}
+        }
+      },
+      "MySql.Data/8.0.28.0": {
+        "runtime": {
+          "MySql.Data.dll": {
+            "assemblyVersion": "8.0.28.0",
+            "fileVersion": "8.0.28.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2022-02-28 MyWind - WPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MySql.Data/8.0.28.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
